@@ -9,6 +9,7 @@
     "preview": "vite preview --strictPort"
   },
   "dependencies": {
+    "@netlify/vite-plugin": "^2.5.4",
     "@turf/turf": "^6.5.0",
     "leaflet": "^1.9.4",
     "leaflet.markercluster": "^1.5.3",
